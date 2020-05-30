@@ -1,2 +1,2 @@
-# Soduku-
-Soduku Solver in Python
+# Sudoku
+Sudoku Solver in Python
